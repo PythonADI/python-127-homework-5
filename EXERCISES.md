@@ -23,7 +23,8 @@ Luka is 30 years old.
 
 This code should print `Total: 5`, but it prints `5` and then
 `Total: None`. Copy it into `exercise_2.py`, then fix the function so
-that `total` is `5`. Change only the line with the `BUG` comment.
+that `total` is the sum of the two numbers (`5` here). Change only the
+line with the `BUG` comment.
 
 ```python
 def add(a, b):
@@ -99,7 +100,7 @@ Write two functions:
 Hint: `number % divisor == 0` means `number` divides evenly by
 `divisor`. Check every divisor from 2 up to `number - 1`.
 
-Then call it like this:
+Then call `count_primes` like this:
 
 ```python
 print(count_primes(10))

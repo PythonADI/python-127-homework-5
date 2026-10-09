@@ -10,7 +10,7 @@
 
 * [ ] exercise_1.py … exercise_5.py are all present in my folder
 * [ ] Every file runs without errors (`python3`, or `py` on Windows) and prints the expected output from EXERCISES.md
-* [ ] exercise_2.py prints "Total: 5" (no more "None")
+* [ ] exercise_2.py prints only "Total: 5" (no extra "5" line, no "None")
 * [ ] I did not change any files outside my own folder
 * [ ] My branch is named after my GitHub username
 
